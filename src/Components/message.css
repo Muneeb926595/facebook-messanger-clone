@@ -1,0 +1,44 @@
+.message{
+    padding: 5px;
+    width: fit-content;
+    margin:10px
+}
+
+.message__user{
+    margin-left: auto;
+    text-align: left !important;
+}
+
+.message__user__card{
+    background-color: #0b81ff !important;
+}
+
+.message__guest__card{
+    background-color: #e9e9eb !important;
+}
+.App {
+  text-align: center;
+}
+
+.messenger__form{
+    position:fixed;
+    padding: 10px;
+    bottom: 0;
+    z-index: 1;
+    margin:10px;
+    width: 98%;
+    background-color: #e9e9eb;
+}
+
+.messenger__formcontrol{
+    display: flex !important;
+    flex-direction: row !important;
+}
+
+.messenger__iconButton{
+    flex:0;
+}
+
+.messenger__input{
+    flex:1;
+}
