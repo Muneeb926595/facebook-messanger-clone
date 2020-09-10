@@ -4,6 +4,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+## Available Scripts
+
+https://facebook-messanger-clone-e19b4.web.app/
+
 ### `yarn start`
 
 Runs the app in the development mode.<br />
